@@ -1,6 +1,3 @@
-$(document).ready(function() {
-    setTimeout(function(){
-        $('body').addClass('page-fade');
-	}, 3000);
-});
-    
+window.addEventListener('load', () => {
+  document.body.style.opacity = '1';
+})
