@@ -67,8 +67,8 @@
 .fcbackground {
 	width: 100%;
 	height: 100%;
-	transform: scaleX(-1);
-	background-image: url(https://cdn.discordapp.com/attachments/631941425482956811/650486794936123422/CorporateSiteHeader.png);
+	transform: scaleX(1);
+	background-image: url('/Images/AsfaltoCorpBackground.png');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
