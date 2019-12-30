@@ -71,7 +71,7 @@
 	background-image: url('/Images/AsfaltoCorpBackground.png');
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: center center;
+	background-position: right bottom;
 	position: absolute;
 }
 /* Style the image inside the centered container, if needed */
