@@ -1,0 +1,117 @@
+@font-face {
+    font-family: 'Meticula';
+    src: url('Meticula-Light.eot');
+    src: local('Meticula Light'), local('Meticula-Light'),
+        url('Meticula-Light.eot?#iefix') format('embedded-opentype'),
+        url('Meticula-Light.woff2') format('woff2'),
+        url('Meticula-Light.woff') format('woff'),
+        url('Meticula-Light.ttf') format('truetype'),
+        url('Meticula-Light.svg#Meticula-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Meticula';
+    src: url('Meticula-Medium.eot');
+    src: local('Meticula Medium'), local('Meticula-Medium'),
+        url('Meticula-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Meticula-Medium.woff2') format('woff2'),
+        url('Meticula-Medium.woff') format('woff'),
+        url('Meticula-Medium.ttf') format('truetype'),
+        url('Meticula-Medium.svg#Meticula-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Meticula';
+    src: url('Meticula-ExtraBold.eot');
+    src: local('Meticula Extra Bold'), local('Meticula-ExtraBold'),
+        url('Meticula-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Meticula-ExtraBold.woff2') format('woff2'),
+        url('Meticula-ExtraBold.woff') format('woff'),
+        url('Meticula-ExtraBold.ttf') format('truetype'),
+        url('Meticula-ExtraBold.svg#Meticula-ExtraBold') format('svg');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Meticula';
+    src: url('Meticula-Thin.eot');
+    src: local('Meticula Thin'), local('Meticula-Thin'),
+        url('Meticula-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Meticula-Thin.woff2') format('woff2'),
+        url('Meticula-Thin.woff') format('woff'),
+        url('Meticula-Thin.ttf') format('truetype'),
+        url('Meticula-Thin.svg#Meticula-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Meticula';
+    src: url('Meticula-Italic.eot');
+    src: local('Meticula Italic'), local('Meticula-Italic'),
+        url('Meticula-Italic.eot?#iefix') format('embedded-opentype'),
+        url('Meticula-Italic.woff2') format('woff2'),
+        url('Meticula-Italic.woff') format('woff'),
+        url('Meticula-Italic.ttf') format('truetype'),
+        url('Meticula-Italic.svg#Meticula-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Meticula';
+    src: url('Meticula-ExtraLight.eot');
+    src: local('Meticula Extra Light'), local('Meticula-ExtraLight'),
+        url('Meticula-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('Meticula-ExtraLight.woff2') format('woff2'),
+        url('Meticula-ExtraLight.woff') format('woff'),
+        url('Meticula-ExtraLight.ttf') format('truetype'),
+        url('Meticula-ExtraLight.svg#Meticula-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Meticula';
+    src: url('Meticula-Bold.eot');
+    src: local('Meticula Bold'), local('Meticula-Bold'),
+        url('Meticula-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Meticula-Bold.woff2') format('woff2'),
+        url('Meticula-Bold.woff') format('woff'),
+        url('Meticula-Bold.ttf') format('truetype'),
+        url('Meticula-Bold.svg#Meticula-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Meticula';
+    src: url('Meticula-SemiBold.eot');
+    src: local('Meticula Semi Bold'), local('Meticula-SemiBold'),
+        url('Meticula-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Meticula-SemiBold.woff2') format('woff2'),
+        url('Meticula-SemiBold.woff') format('woff'),
+        url('Meticula-SemiBold.ttf') format('truetype'),
+        url('Meticula-SemiBold.svg#Meticula-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Meticula';
+    src: url('Meticula-Regular.eot');
+    src: local('Meticula Regular'), local('Meticula-Regular'),
+        url('Meticula-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Meticula-Regular.woff2') format('woff2'),
+        url('Meticula-Regular.woff') format('woff'),
+        url('Meticula-Regular.ttf') format('truetype'),
+        url('Meticula-Regular.svg#Meticula-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
