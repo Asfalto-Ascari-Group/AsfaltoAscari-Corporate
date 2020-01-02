@@ -1,42 +1,47 @@
 @charset "utf-8";
 /* CSS Document */
-
-	
+:root{
+	--AsfaltoRed: #fc2100;
+}	
 body {
-opacity: 0;
-transition: opacity 3s ease-in-out;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	opacity: 0;
+	transition: opacity 3s ease-in-out;
 }
 
 /* Split the screen in half */
 .split {
-  height: 100%;
-  width: 50%;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  overflow-x: hidden;
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
 }
 
 /* Control the left side */
 .left {
-  left: 0;
-  background-color: white;
+    overflow: hidden;
+    left: 0;
+    background-color: white;
 }
 
 /* Control the right side */
 .right {
-  right: 0;
-  background-color: #191919;
+	right: 0;
+	background-color: #191919;
 }
 
 /* If you want the content centered horizontally and vertically */
 .centered {
-  	position: absolute;
+	white-space: nowrap;
+		position: absolute;
  	top: 50%;
-  	left: 50%;
-  	transform: translate(-50%, -50%);
-  	text-align: left;
-	font-family: "Montserrat";
+		left: 50%;
+		transform: translate(-50%, -50%);
+		text-align: left;
+	font-family: "Asfalto Meticula";
 	width: 40%;
 }
 
@@ -52,7 +57,7 @@ transition: opacity 3s ease-in-out;
 }
 /* Style the image inside the centered container, if needed */
 .Container {
-  	display: flex;
+		display: flex;
 	flex-direction: column;
 	flex-wrap: wrap;
 	align-items: baseline;
@@ -61,37 +66,52 @@ transition: opacity 3s ease-in-out;
 
 hr.emBlock {
 	background-color: #3d4648;
-	width: 100%;
-	height: 2px;
+	width: 40px;
+	height: 3px;
 	border: none;
+	margin: 0 0 30px 0;
+	align: left;
 	/*border-top: 1px solid black*/
 }
 
+h1 {
+	
+	font-weight: 400;
+}
 h2 {
+	font-weight: 400;
 	color: #CCC
+}
+h4 {
+	transition: 0.3s;
+	font-weight: 700;
+}
+h5 {
+	font-weight: 400;
+}
+
+h4:hover{
+	color: var(--AsfaltoRed);
 }
 
 a:link {
-  color: #191919;
+	color: #191919;
 }
 
 /* visited link */
-a:visited {
-  color: #CCCCCC;
-}
 
 a:link {
-  text-decoration: none;
+	text-decoration: none;
 }
 
 a:visited {
-  text-decoration: none;
+	text-decoration: none;
 }
 
 a:hover {
-  text-decoration: underline;
+	text-decoration: underline;
 }
 
 a:active {
-  text-decoration: underline;
+	text-decoration: underline;
 }
