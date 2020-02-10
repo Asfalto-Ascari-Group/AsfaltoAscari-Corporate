@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'Asfalto Meticula';
+  src: url('../../Assets/Fonts/AsfaltoMeticula-Thin.eot');
+  src: local('Asfalto Meticula Thin'), local('AsfaltoMeticula-Thin'), url('../../Assets/Fonts/AsfaltoMeticula-Thin.eot?#iefix') format('embedded-opentype'), url('../../Assets/Fonts/AsfaltoMeticula-Thin.woff2') format('woff2'), url('../../Assets/Fonts/AsfaltoMeticula-Thin.woff') format('woff'), url('../../Assets/Fonts/AsfaltoMeticula-Thin.ttf') format('truetype'), url('../../Assets/Fonts/AsfaltoMeticula-Thin.svg#AsfaltoMeticula-Thin') format('svg');
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Asfalto Meticula';
+  src: url('../../Assets/Fonts/AsfaltoMeticula-ExtraLight.eot');
+  src: local('Afalto Meticula Extra Light'), local('AsfaltoMeticula-ExtraLight'), url('../../Assets/Fonts/AsfaltoMeticula-ExtraLight.eot?#iefix') format('embedded-opentype'), url('../../Assets/Fonts/AsfaltoMeticula-ExtraLight.woff2') format('woff2'), url('../../Assets/Fonts/AsfaltoMeticula-ExtraLight.woff') format('woff'), url('../../Assets/Fonts/AsfaltoMeticula-ExtraLight.ttf') format('truetype'), url('../../Assets/Fonts/AsfaltoMeticula-ExtraLight.svg#AsfaltoMeticula-ExtraLight') format('svg');
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Asfalto Meticula';
+  src: url('../../Assets/Fonts/AsfaltoMeticula-Regular.eot');
+  src: local('Asfalto Meticula Regular'), local('AsfaltoMeticula-Regular'), url('../../Assets/Fonts/AsfaltoMeticula-Regular.eot?#iefix') format('embedded-opentype'), url('../../Assets/Fonts/AsfaltoMeticula-Regular.woff2') format('woff2'), url('../../Assets/Fonts/AsfaltoMeticula-Regular.woff') format('woff'), url('../../Assets/Fonts/AsfaltoMeticula-Regular.ttf') format('truetype'), url('../../Assets/Fonts/AsfaltoMeticula-Regular.svg#AsfaltoMeticula-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Asfalto Meticula';
+  src: url('../../Assets/Fonts/AsfaltoMeticula-Medium.eot');
+  src: local('Asfalto Meticula Medium'), local('AsfaltoMeticula-Medium'), url('../../Assets/Fonts/AsfaltoMeticula-Medium.eot?#iefix') format('embedded-opentype'), url('../../Assets/Fonts/AsfaltoMeticula-Medium.woff2') format('woff2'), url('../../Assets/Fonts/AsfaltoMeticula-Medium.woff') format('woff'), url('../../Assets/Fonts/AsfaltoMeticula-Medium.ttf') format('truetype'), url('../../Assets/Fonts/AsfaltoMeticula-Medium.svg#AsfaltoMeticula-Medium') format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Asfalto Meticula';
+  src: url('../../Assets/Fonts/AsfaltoMeticula-Bold.eot');
+  src: local('Asfalto Meticula Bold'), local('AsfaltoMeticula-Bold'), url('../../Assets/Fonts/AsfaltoMeticula-Bold.eot?#iefix') format('embedded-opentype'), url('../../Assets/Fonts/AsfaltoMeticula-Bold.woff2') format('woff2'), url('../../Assets/Fonts/AsfaltoMeticula-Bold.woff') format('woff'), url('../../Assets/Fonts/AsfaltoMeticula-Bold.ttf') format('truetype'), url('../../Assets/Fonts/AsfaltoMeticula-Bold.svg#AsfaltoMeticula-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Asfalto Meticula';
+  src: url('../../Assets/Fonts/AsfaltoMeticula-ExtraBold.eot');
+  src: local('Asfalto Meticula Extra Bold'), local('AsfaltoMeticula-ExtraBold'), url('../../Assets/Fonts/AsfaltoMeticula-ExtraBold.eot?#iefix') format('embedded-opentype'), url('../../Assets/Fonts/AsfaltoMeticula-ExtraBold.woff2') format('woff2'), url('../../Assets/Fonts/AsfaltoMeticula-ExtraBold.woff') format('woff'), url('../../Assets/Fonts/AsfaltoMeticula-ExtraBold.ttf') format('truetype'), url('../../Assets/Fonts/AsfaltoMeticula-ExtraBold.svg#AsfaltoMeticula-ExtraBold') format('svg');
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Asfalto Meticula';
+  src: url('../../Assets/Fonts/AsfaltoMeticula-Light.eot');
+  src: local('Asfalto Meticula Light'), local('AsfaltoMeticula-Light'), url('../../Assets/Fonts/AsfaltoMeticula-Light.eot?#iefix') format('embedded-opentype'), url('../../Assets/Fonts/AsfaltoMeticula-Light.woff2') format('woff2'), url('../../Assets/Fonts/AsfaltoMeticula-Light.woff') format('woff'), url('../../Assets/Fonts/AsfaltoMeticula-Light.ttf') format('truetype'), url('../../Assets/Fonts/AsfaltoMeticula-Light.svg#AsfaltoMeticula-Light') format('svg');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Asfalto Meticula';
+  src: url('../../Assets/Fonts/AsfaltoMeticula-SemiBold.eot');
+  src: local('Asfalto Meticula Semi Bold'), local('AsfaltoMeticula-SemiBold'), url('../../Assets/Fonts/AsfaltoMeticula-SemiBold.eot?#iefix') format('embedded-opentype'), url('../../Assets/Fonts/AsfaltoMeticula-SemiBold.woff2') format('woff2'), url('../../Assets/Fonts/AsfaltoMeticula-SemiBold.woff') format('woff'), url('../../Assets/Fonts/AsfaltoMeticula-SemiBold.ttf') format('truetype'), url('../../Assets/Fonts/AsfaltoMeticula-SemiBold.svg#AsfaltoMeticula-SemiBold') format('svg');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Asfalto Meticula';
+  src: url('../../Assets/Fonts/AsfaltoMeticula-Italic.eot');
+  src: local('Asfalto Meticula Italic'), local('AsfaltoMeticula-Italic'), url('../../Assets/Fonts/AsfaltoMeticula-Italic.eot?#iefix') format('embedded-opentype'), url('../../Assets/Fonts/AsfaltoMeticula-Italic.woff2') format('woff2'), url('../../Assets/Fonts/AsfaltoMeticula-Italic.woff') format('woff'), url('../../Assets/Fonts/AsfaltoMeticula-Italic.ttf') format('truetype'), url('../../Assets/Fonts/AsfaltoMeticula-Italic.svg#AsfaltoMeticula-Italic') format('svg');
+  font-weight: normal;
+  font-style: italic;
+}

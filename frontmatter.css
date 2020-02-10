@@ -17,7 +17,7 @@ body {
   -moz-osx-font-smoothing: grayscale
 }
 body, html {
-  cursor: url("./Assets/Misc/Cursor.gif"), url("./Assets/Misc/CursorS.gif"), auto;
+  cursor: url("WebAssets/Misc/Cursor.gif"), url("WebAssets/Misc/CursorS.gif"), auto;
   height: 100%;
 }
 /* Split the screen in half */
