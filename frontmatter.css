@@ -94,6 +94,9 @@ h5 {
 h4:hover {
   color: #fc2100;
 }
+h5:hover {
+  color: #fc2100;
+}
 a:link {
   color: #191919;
 }
