@@ -1,0 +1,14 @@
+C:\Users\XLNS_\Documents\GitHub\AsfaltoAscari-Corporate\Framework\Asfalto Ascari Studio FRAMEWORK\bin\Debug\Asfalto Ascari Studio FRAMEWORK.exe.config
+C:\Users\XLNS_\Documents\GitHub\AsfaltoAscari-Corporate\Framework\Asfalto Ascari Studio FRAMEWORK\bin\Debug\Asfalto Ascari Studio FRAMEWORK.exe
+C:\Users\XLNS_\Documents\GitHub\AsfaltoAscari-Corporate\Framework\Asfalto Ascari Studio FRAMEWORK\bin\Debug\Asfalto Ascari Studio FRAMEWORK.pdb
+C:\Users\XLNS_\Documents\GitHub\AsfaltoAscari-Corporate\Framework\Asfalto Ascari Studio FRAMEWORK\obj\Debug\Asfalto Ascari Studio FRAMEWORK.csprojAssemblyReference.cache
+C:\Users\XLNS_\Documents\GitHub\AsfaltoAscari-Corporate\Framework\Asfalto Ascari Studio FRAMEWORK\obj\Debug\MainWindow.g.cs
+C:\Users\XLNS_\Documents\GitHub\AsfaltoAscari-Corporate\Framework\Asfalto Ascari Studio FRAMEWORK\obj\Debug\App.g.cs
+C:\Users\XLNS_\Documents\GitHub\AsfaltoAscari-Corporate\Framework\Asfalto Ascari Studio FRAMEWORK\obj\Debug\Asfalto Ascari Studio FRAMEWORK_MarkupCompile.cache
+C:\Users\XLNS_\Documents\GitHub\AsfaltoAscari-Corporate\Framework\Asfalto Ascari Studio FRAMEWORK\obj\Debug\Asfalto Ascari Studio FRAMEWORK_MarkupCompile.lref
+C:\Users\XLNS_\Documents\GitHub\AsfaltoAscari-Corporate\Framework\Asfalto Ascari Studio FRAMEWORK\obj\Debug\MainWindow.baml
+C:\Users\XLNS_\Documents\GitHub\AsfaltoAscari-Corporate\Framework\Asfalto Ascari Studio FRAMEWORK\obj\Debug\Asfalto Ascari Studio FRAMEWORK.g.resources
+C:\Users\XLNS_\Documents\GitHub\AsfaltoAscari-Corporate\Framework\Asfalto Ascari Studio FRAMEWORK\obj\Debug\Asfalto_Ascari_Studio_FRAMEWORK.Properties.Resources.resources
+C:\Users\XLNS_\Documents\GitHub\AsfaltoAscari-Corporate\Framework\Asfalto Ascari Studio FRAMEWORK\obj\Debug\Asfalto Ascari Studio FRAMEWORK.csproj.GenerateResource.cache
+C:\Users\XLNS_\Documents\GitHub\AsfaltoAscari-Corporate\Framework\Asfalto Ascari Studio FRAMEWORK\obj\Debug\Asfalto Ascari Studio FRAMEWORK.exe
+C:\Users\XLNS_\Documents\GitHub\AsfaltoAscari-Corporate\Framework\Asfalto Ascari Studio FRAMEWORK\obj\Debug\Asfalto Ascari Studio FRAMEWORK.pdb
