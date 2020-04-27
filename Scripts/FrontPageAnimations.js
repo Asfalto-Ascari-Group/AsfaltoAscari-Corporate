@@ -14,11 +14,8 @@ function OutFMTransition(str) {
       newEl.innerHTML = '<b>	403 - Group Authentication required.</b>';
       el.parentNode.replaceChild(newEl, el);
     }
-	if (str == 'Products') {
-      var el2 = document.querySelector('body');
-      var newEl2 = document.createElement('p');
-      newEl2.innerHTML = '<b>	403 - Group Authentication required.</b>';
-      el2.parentNode.replaceChild(newEl2, el2);
+	if (str == 'Esports') {
+	  window.location.href = 'https://Esports.AsfaltoAscari.com/
     }
 	if (str == 'Group') {
 	  window.location.href = 'https://AsfaltoAscari.com/Group.html';
