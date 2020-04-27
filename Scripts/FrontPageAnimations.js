@@ -15,7 +15,7 @@ function OutFMTransition(str) {
       el.parentNode.replaceChild(newEl, el);
     }
 	if (str == 'Esports') {
-	  window.location.href = 'https://Esports.AsfaltoAscari.com/
+	  window.location.href = 'https://Esports.AsfaltoAscari.com/';
     }
 	if (str == 'Group') {
 	  window.location.href = 'https://AsfaltoAscari.com/Group.html';
